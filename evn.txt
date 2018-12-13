@@ -1,8 +1,6 @@
 study teambition Dec-2018.
 why? why? what???
 haha!!!!
-<<<<<<< HEAD
 why? del branch origin/dev!
-=======
 rebuild dev branch.
->>>>>>> 1210fcc3b9327d82f2dcfc4019345f9cfa61a21a
+Modify 2 from skills.
